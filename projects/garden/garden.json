@@ -1,0 +1,139 @@
+{
+  "beds": [
+    {
+      "id": "bed1",
+      "name": "Bed 1",
+      "dimensions": {
+        "width_ft": 2,
+        "length_ft": 5,
+        "depth_ft": 2
+      },
+      "location": "by the house",
+      "sun": "full sun most of the day",
+      "trellis": false
+    },
+    {
+      "id": "bed2",
+      "name": "Bed 2",
+      "dimensions": {
+        "width_ft": 3,
+        "length_ft": 3,
+        "depth_ft": 1
+      },
+      "location": "by the house",
+      "sun": "full sun most of the day",
+      "trellis": {
+        "height_ft": 5,
+        "rungs": 8
+      }
+    }
+  ],
+  "plants": [
+    {
+      "id": "bed1-lettuce",
+      "bed_id": "bed1",
+      "type": "lettuce",
+      "variety": "TBD (Igloo / Giant Caesar / Black Seeded Simpson / Gourmet Blend)",
+      "date_planted": "2026-03-15",
+      "days_to_maturity": 45,
+      "status": "seedling",
+      "notes": "Some seedlings ~2 inches tall; some germinated and died"
+    },
+    {
+      "id": "bed1-beet-ddr",
+      "bed_id": "bed1",
+      "type": "beet",
+      "variety": "Detroit Dark Red Medium Top",
+      "date_planted": "2026-03-15",
+      "days_to_maturity": 60,
+      "status": "seedling",
+      "notes": ""
+    },
+    {
+      "id": "bed1-beet-ds",
+      "bed_id": "bed1",
+      "type": "beet",
+      "variety": "Detroit Supreme",
+      "date_planted": "2026-03-15",
+      "days_to_maturity": 55,
+      "status": "seedling",
+      "notes": ""
+    },
+    {
+      "id": "bed1-onion-ww",
+      "bed_id": "bed1",
+      "type": "onion",
+      "variety": "Walla Walla",
+      "date_planted": "2026-03-15",
+      "days_to_maturity": 90,
+      "status": "seedling",
+      "notes": ""
+    },
+    {
+      "id": "bed1-onion-fk",
+      "bed_id": "bed1",
+      "type": "onion",
+      "variety": "Bunching Onion Flavor King",
+      "date_planted": "2026-03-15",
+      "days_to_maturity": 65,
+      "status": "seedling",
+      "notes": ""
+    },
+    {
+      "id": "bed2-lettuce-igloo",
+      "bed_id": "bed2",
+      "type": "lettuce",
+      "variety": "Igloo",
+      "date_planted": "2026-03-15",
+      "days_to_maturity": 45,
+      "status": "seedling",
+      "notes": "Some seedlings ~2 inches tall; some germinated and died"
+    },
+    {
+      "id": "bed2-lettuce-gc",
+      "bed_id": "bed2",
+      "type": "lettuce",
+      "variety": "Giant Caesar",
+      "date_planted": "2026-03-15",
+      "days_to_maturity": 70,
+      "status": "seedling",
+      "notes": "Some seedlings ~2 inches tall; some germinated and died"
+    },
+    {
+      "id": "bed2-lettuce-bss",
+      "bed_id": "bed2",
+      "type": "lettuce",
+      "variety": "Black Seeded Simpson",
+      "date_planted": "2026-03-15",
+      "days_to_maturity": 45,
+      "status": "seedling",
+      "notes": "Some seedlings ~2 inches tall; some germinated and died"
+    },
+    {
+      "id": "bed2-lettuce-gb",
+      "bed_id": "bed2",
+      "type": "lettuce",
+      "variety": "Gourmet Blend",
+      "date_planted": "2026-03-15",
+      "days_to_maturity": 45,
+      "status": "seedling",
+      "notes": "Some seedlings ~2 inches tall; some germinated and died"
+    }
+  ],
+  "watering_log": [
+    {
+      "date": "2026-03-31",
+      "bed": "bed1",
+      "method": "hand watered",
+      "notes": "Watered a few inches"
+    },
+    {
+      "date": "2026-03-31",
+      "bed": "bed2",
+      "method": "hand watered",
+      "notes": "Watered a few inches"
+    }
+  ],
+  "harvest_log": [],
+  "pest_log": []
+}
