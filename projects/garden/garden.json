@@ -132,6 +132,18 @@
       "bed": "bed2",
       "method": "hand watered",
       "notes": "Watered a few inches"
+    },
+    {
+      "date": "2026-04-02",
+      "bed": "bed1",
+      "method": "hand watered",
+      "notes": "Need to reseed square foot areas where original seeds did not germinate"
+    },
+    {
+      "date": "2026-04-02",
+      "bed": "bed2",
+      "method": "hand watered",
+      "notes": "Need to reseed square foot areas where original seeds did not germinate"
     }
   ],
   "harvest_log": [],
