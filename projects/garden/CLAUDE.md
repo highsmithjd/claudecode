@@ -29,6 +29,39 @@ only update specific fields or append new records.
   - Lettuce varieties: Igloo, Giant Caesar, Black Seeded Simpson, Gourmet Blend
 - **Status:** Some seedlings ~2 inches tall; some germinated and died
 
+## Summer Crop Plan
+
+### Tomato — Big Red (Ferry Morse Organic)
+- **Started indoors:** April 5, 2026
+- **Transplant to:** Bed 1 (after May 1)
+- **Days to maturity:** 85 days from transplant
+- **Notes:** Will need a cage; max 2 plants; takes over Bed 1 after spring harvest
+
+### Cucumber — Straight Eight (Ferry Morse Organic)
+- **Started indoors:** April 5, 2026
+- **Transplant to:** Bed 2 near trellis (after May 1)
+- **Days to maturity:** 60 days from transplant
+- **Notes:** Will climb the Bed 2 trellis; primary summer crop for Bed 2
+
+### Peppers (variety TBD)
+- **Status:** Still to be seeded
+- **Planned location:** Bed 1 (alongside or after tomatoes)
+
+### Squash (variety TBD)
+- **Status:** Still to be seeded
+- **Planned location:** Container (not a raised bed)
+
+## Bed Transition Plans
+
+### Bed 1
+- Harvest spring crops (lettuce, beets, onions) May–June
+- Transplant tomatoes (Big Red) into Bed 1 after spring crops are cleared
+- Max 2 tomato plants; peppers may share space if room allows
+
+### Bed 2
+- Cucumbers on trellis all summer
+- Spring lettuce harvested as cucumbers fill in
+
 ## Location & Climate
 - Orlinda, Tennessee (Zone 6b)
 - Spring planting season — cool weather crops appropriate for current timing
@@ -68,4 +101,7 @@ only update specific fields or append new records.
   - Lettuce Giant Caesar: ~70 days (ready ~May 24)
   - Lettuce Black Seeded Simpson: ~45 days (ready ~April 29)
   - Lettuce Gourmet Blend: ~45 days (ready ~April 29)
+  - Tomato Big Red: ~85 days from transplant (if transplanted May 1, ready ~July 25)
+  - Cucumber Straight Eight: ~60 days from transplant (if transplanted May 1, ready ~June 30)
 - Some seedling loss is noted — Claude should ask before marking any plant as dead
+- Days-to-maturity for summer crops are counted from transplant date, not indoor start date
