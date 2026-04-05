@@ -120,6 +120,26 @@
       "notes": "Some seedlings ~2 inches tall; some germinated and died"
     },
     {
+      "id": "bed1-kale-dbc",
+      "bed_id": "bed1",
+      "type": "kale",
+      "variety": "Dwarf Blue Curled",
+      "date_planted": "2026-04-05",
+      "days_to_maturity": 55,
+      "status": "seeded",
+      "notes": "Direct sown in 1 square foot of Bed 1"
+    },
+    {
+      "id": "bed2-kale-dbc",
+      "bed_id": "bed2",
+      "type": "kale",
+      "variety": "Dwarf Blue Curled",
+      "date_planted": "2026-04-05",
+      "days_to_maturity": 55,
+      "status": "seeded",
+      "notes": "Direct sown in 1 square foot of Bed 2"
+    },
+    {
       "id": "bed1-tomato-bigred",
       "bed_id": "bed1",
       "type": "tomato",

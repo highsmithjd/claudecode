@@ -43,10 +43,6 @@ only update specific fields or append new records.
 - **Days to maturity:** 60 days from transplant
 - **Notes:** Will climb the Bed 2 trellis; primary summer crop for Bed 2
 
-### Peppers (variety TBD)
-- **Status:** Still to be seeded
-- **Planned location:** Bed 1 (alongside or after tomatoes)
-
 ### Squash (variety TBD)
 - **Status:** Still to be seeded
 - **Planned location:** Container (not a raised bed)
@@ -56,7 +52,7 @@ only update specific fields or append new records.
 ### Bed 1
 - Harvest spring crops (lettuce, beets, onions) May–June
 - Transplant tomatoes (Big Red) into Bed 1 after spring crops are cleared
-- Max 2 tomato plants; peppers may share space if room allows
+- Max 2 tomato plants
 
 ### Bed 2
 - Cucumbers on trellis all summer
@@ -101,6 +97,7 @@ only update specific fields or append new records.
   - Lettuce Giant Caesar: ~70 days (ready ~May 24)
   - Lettuce Black Seeded Simpson: ~45 days (ready ~April 29)
   - Lettuce Gourmet Blend: ~45 days (ready ~April 29)
+  - Kale Dwarf Blue Curled: ~55 days (ready ~June 3)
   - Tomato Big Red: ~85 days from transplant (if transplanted May 1, ready ~July 25)
   - Cucumber Straight Eight: ~60 days from transplant (if transplanted May 1, ready ~June 30)
 - Some seedling loss is noted — Claude should ask before marking any plant as dead
