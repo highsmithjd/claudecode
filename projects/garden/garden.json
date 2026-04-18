@@ -145,12 +145,14 @@
       "type": "tomato",
       "variety": "Big Red (Ferry Morse Organic)",
       "date_started_indoors": "2026-04-05",
-      "date_planted": null,
+      "date_planted": "2026-04-18",
       "transplant_after": "2026-05-01",
       "days_to_maturity": 85,
       "days_to_maturity_note": "from transplant date",
-      "status": "started_indoors",
-      "notes": "Max 2 plants; will need cage; transplant to Bed 1 after spring crops harvested"
+      "plant_count": 3,
+      "height_at_transplant_in": 12,
+      "status": "transplanted",
+      "notes": "3 plants transplanted Apr 18 (~1ft tall each); planted early (before May 1 window); will need cages; Bed 1 only has room for 2 per original plan — monitor spacing"
     },
     {
       "id": "bed2-cucumber-s8",
