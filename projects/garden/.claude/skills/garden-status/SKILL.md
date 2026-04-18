@@ -1,4 +1,7 @@
-# Garden Status
+---
+name: garden-status
+description: Show full status of all garden beds, plants, watering, and upcoming harvests
+---
 
 Read garden.json and display a full status report:
 
