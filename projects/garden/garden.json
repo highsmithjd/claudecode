@@ -160,12 +160,13 @@
       "type": "cucumber",
       "variety": "Straight Eight (Ferry Morse Organic)",
       "date_started_indoors": "2026-04-05",
-      "date_planted": null,
+      "date_planted": "2026-04-18",
       "transplant_after": "2026-05-01",
       "days_to_maturity": 60,
       "days_to_maturity_note": "from transplant date",
-      "status": "started_indoors",
-      "notes": "Plant near trellis in Bed 2; will climb trellis all summer"
+      "plant_count": 1,
+      "status": "transplanted",
+      "notes": "1 plant transplanted Apr 18 near trellis in Bed 2; planted early (before May 1 window); 1 backup plant remaining in pot indoors"
     }
   ],
   "watering_log": [
