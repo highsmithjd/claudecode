@@ -92,9 +92,13 @@ def cmd_status():
 
     for bed in data["beds"]:
         bid = bed["id"]
-        dims = bed["dimensions"]
+        dims = bed.get("dimensions")
         trellis = " [trellis]" if bed.get("trellis") else ""
-        print(f"\n{bed['name']}  ({dims['width_ft']}x{dims['length_ft']}x{dims['depth_ft']} ft){trellis}")
+        if dims:
+            size_str = f"{dims['width_ft']}x{dims['length_ft']}x{dims['depth_ft']} ft"
+        else:
+            size_str = bed.get("type", "container")
+        print(f"\n{bed['name']}  ({size_str}){trellis}")
         print(f"  {bed['sun']} — {bed['location']}")
 
         lw = last_watered.get(bid)
@@ -113,8 +117,12 @@ def cmd_status():
         print(f"  {'-'*35} {'-'*12} {'-'*9} {'-'*10}")
         for p in plants:
             days_in = days_since(p["date_planted"])
-            remaining = days_until_maturity(p["date_planted"], p["days_to_maturity"])
-            ready_str = f"{remaining}d" if remaining > 0 else f"READY ({abs(remaining)}d ago)"
+            dtm = p.get("days_to_maturity")
+            if dtm is not None:
+                remaining = days_until_maturity(p["date_planted"], dtm)
+                ready_str = f"{remaining}d" if remaining > 0 else f"READY ({abs(remaining)}d ago)"
+            else:
+                ready_str = "unknown"
             status = p["status"]
             variety = p["variety"]
             if len(variety) > 34:

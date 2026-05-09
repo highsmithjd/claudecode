@@ -10,38 +10,53 @@ only update specific fields or append new records.
 ### Bed 1 — 2ft wide x 5ft long x 2ft deep
 - Full sun most of the day
 - Located by the house
-- **Planted:** March 15, 2026
-- **Contents:** Mix of lettuce, beets, and onions
-  - Lettuce (variety TBD — likely one of: Igloo, Giant Caesar, Black Seeded Simpson,
-    or Gourmet Blend)
-  - Beet — Detroit Dark Red Medium Top
-  - Beet — Detroit Supreme
-  - Onion — Walla Walla
-  - Onion — Bunching Onion Flavor King
-- **Status:** Some seedlings ~2 inches tall; some germinated and died
+- **Contents (as of May 8, 2026):**
+  - Lettuce (variety TBD — spring planting Mar 15)
+  - Beet — Detroit Dark Red Medium Top (Mar 15)
+  - Beet — Detroit Supreme (Mar 15; first beet harvested May 2026, remaining plants in bed)
+  - Onion — Walla Walla (Mar 15)
+  - Onion — Bunching Onion Flavor King (Mar 15)
+  - Kale — Dwarf Blue Curled (seeded Apr 5)
+  - Tomato — Big Red, 3 plants (transplanted Apr 18)
+  - Broccoli starts — 3 plants (transplanted early May)
+  - Cauliflower starts — some plants (transplanted early May)
+  - Green Bean — Bush Blue Lake 274 / Provider Bush / Contender Organic (direct sown May 8)
 
 ### Bed 2 — 3ft wide x 3ft long x 1ft deep
 - Full sun most of the day
 - Located by the house
 - Has a trellis on one side: ~5ft tall, 8 rungs
-- **Planted:** March 15, 2026
-- **Contents:** All lettuce
-  - Lettuce varieties: Igloo, Giant Caesar, Black Seeded Simpson, Gourmet Blend
-- **Status:** Some seedlings ~2 inches tall; some germinated and died
+- **Contents (as of May 8, 2026):**
+  - Lettuce — Igloo, Giant Caesar, Gourmet Blend (spring planting Mar 15; still growing)
+  - Lettuce — Black Seeded Simpson (Mar 15; **harvested May 2026**)
+  - Kale — Dwarf Blue Curled (seeded Apr 5)
+  - Cucumber — Straight Eight, 1 plant (transplanted Apr 18; now climbing trellis)
+  - Broccoli — 1 start (transplanted early May)
+
+### Containers
+- **Blue container:** 1 broccoli start (planted early May)
+- **Galvanized containers (2):** 2 pepper plants (planted early May); some cauliflower starts
 
 ## Summer Crop Plan
 
 ### Tomato — Big Red (Ferry Morse Organic)
 - **Started indoors:** April 5, 2026
-- **Transplant to:** Bed 1 (after May 1)
-- **Days to maturity:** 85 days from transplant
-- **Notes:** Will need a cage; max 2 plants; takes over Bed 1 after spring harvest
+- **Transplanted:** April 18, 2026 to Bed 1 (3 plants)
+- **Days to maturity:** 85 days from transplant (~July 12 from Apr 18)
+- **Status:** Growing in Bed 1
+- **Notes:** Will need cages; original plan was max 2 plants — 3 were transplanted, monitor spacing
 
 ### Cucumber — Straight Eight (Ferry Morse Organic)
 - **Started indoors:** April 5, 2026
-- **Transplant to:** Bed 2 near trellis (after May 1)
-- **Days to maturity:** 60 days from transplant
-- **Notes:** Will climb the Bed 2 trellis; primary summer crop for Bed 2
+- **Transplanted:** April 18, 2026 to Bed 2 near trellis (1 plant)
+- **Days to maturity:** 60 days from transplant (~June 17 from Apr 18)
+- **Status:** Growing in Bed 2, climbing trellis
+
+### Green Beans (new — direct sown May 8, 2026)
+- **Bush Blue Lake 274 (Burpee):** ~52 days → ready ~June 29
+- **Provider Bush (Ferry Morse):** 50 days → ready ~June 27
+- **Contender Organic (Ferry Morse):** 55 days → ready ~July 2
+- **Location:** Direct sown in empty Bed 1 squares May 8
 
 ### Squash (variety TBD)
 - **Status:** Still to be seeded
@@ -89,16 +104,22 @@ only update specific fields or append new records.
 ## Notes
 - Prefer simple, readable Python
 - Days-to-maturity reference:
-  - Beet Detroit Dark Red: ~60 days (ready ~May 14)
-  - Beet Detroit Supreme: ~55 days (ready ~May 9)
-  - Onion Walla Walla: ~90 days (ready ~June 13)
-  - Bunching Onion Flavor King: ~65 days (ready ~May 19)
-  - Lettuce Igloo: ~45 days (ready ~April 29)
-  - Lettuce Giant Caesar: ~70 days (ready ~May 24)
-  - Lettuce Black Seeded Simpson: ~45 days (ready ~April 29)
-  - Lettuce Gourmet Blend: ~45 days (ready ~April 29)
-  - Kale Dwarf Blue Curled: ~55 days (ready ~June 3)
-  - Tomato Big Red: ~85 days from transplant (if transplanted May 1, ready ~July 25)
-  - Cucumber Straight Eight: ~60 days from transplant (if transplanted May 1, ready ~June 30)
+  - Beet Detroit Dark Red: ~60 days from Mar 15 (ready ~May 14)
+  - Beet Detroit Supreme: ~55 days from Mar 15 (ready ~May 9; first harvested May 2026)
+  - Onion Walla Walla: ~90 days from Mar 15 (ready ~June 13)
+  - Bunching Onion Flavor King: ~65 days from Mar 15 (ready ~May 19)
+  - Lettuce Igloo: ~45 days from Mar 15 (ready ~April 29)
+  - Lettuce Giant Caesar: ~70 days from Mar 15 (ready ~May 24)
+  - Lettuce Black Seeded Simpson: ~45 days from Mar 15 (harvested May 2026)
+  - Lettuce Gourmet Blend: ~45 days from Mar 15 (ready ~April 29)
+  - Kale Dwarf Blue Curled: ~55 days from Apr 5 (ready ~June 3)
+  - Tomato Big Red: ~85 days from Apr 18 transplant (ready ~July 12)
+  - Cucumber Straight Eight: ~60 days from Apr 18 transplant (ready ~June 17)
+  - Broccoli (starts): ~60 days from ~May 1 transplant (ready ~June 30; variety unknown)
+  - Cauliflower (starts): ~65 days from ~May 1 transplant (ready ~July 5; variety unknown)
+  - Pepper: ~75 days from ~May 1 transplant (ready ~July 15; variety unknown)
+  - Green Bean Bush Blue Lake 274: ~52 days from May 8 (ready ~June 29)
+  - Green Bean Provider Bush: ~50 days from May 8 (ready ~June 27)
+  - Green Bean Contender Organic: ~55 days from May 8 (ready ~July 2)
 - Some seedling loss is noted — Claude should ask before marking any plant as dead
 - Days-to-maturity for summer crops are counted from transplant date, not indoor start date
